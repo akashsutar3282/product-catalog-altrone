@@ -1,0 +1,87 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  transition: 0.3s;
+}
+
+#suggestions {
+  z-index: 1000;
+  max-height: 200px;
+  overflow-y: auto;
+  display: none; /* hidden by default */
+}
+
+#suggestions li {
+  cursor: pointer;
+}
+#suggestions li:hover {
+  background-color: #f0f0f0;
+}
+
+#cart-items td {
+  vertical-align: middle;
+}
+
+/* Product card images */
+.card-img-top {
+  width: 100%;
+  height: 250px;
+  object-fit: contain;
+  object-position: center;
+  border-top-left-radius: 0.75rem;
+  border-top-right-radius: 0.75rem;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.4s ease, filter 0.4s ease, box-shadow 0.4s ease;
+}
+
+/* Modal product images */
+#productModal .modal-body img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 0.5rem;
+}
+
+/* Optional: make card hover effect more appealing */
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  transition: 0.3s;
+}
+
+/* Suggestions dropdown */
+#suggestions {
+  z-index: 1000;
+  max-height: 200px;
+  overflow-y: auto;
+  display: none;
+  cursor: pointer;
+}
+
+#suggestions li:hover {
+  background-color: #f0f0f0;
+}
+
+.footer a:hover {
+  color: #0762ff;
+  text-decoration: underline;
+}
+
+.footer p {
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.footer i {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.footer i:hover {
+  transform: scale(1.2);
+  color: #0762ff;
+}

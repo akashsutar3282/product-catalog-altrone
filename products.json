@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Laptop",
+    "price": "$999",
+    "description": "Powerful laptop with Intel i7 processor, 16GB RAM, and 512GB SSD.",
+    "image": " https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-2-in-1-7440-intel/media-gallery/notebook-inspiron-14-7440-t-ice-blue-gallery-16.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=668&qlt=100,1&resMode=sharp2&size=668,402&chrss=full"
+  },
+  {
+    "name": "Smartphone",
+    "price": "$699",
+    "description": "Latest smartphone with 5G connectivity and stunning AMOLED display.",
+    "image": "https://m.media-amazon.com/images/I/61sU81AK8XL._SX679_.jpg"
+  },
+  {
+    "name": "Headphones",
+    "price": "$199",
+    "description": "Noise-cancelling wireless headphones with deep bass.",
+    "image": "https://m.media-amazon.com/images/I/31DU-7yXUyL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "name": "Smartwatch",
+    "price": "$249",
+    "description": "Track your fitness and get notifications with this stylish smartwatch.",
+    "image": "https://m.media-amazon.com/images/I/61BoaOUf+KL.jpg"
+  },
+  {
+    "name": "Gaming Console",
+    "price": "$499",
+    "description": "Next-gen gaming console with ultra-fast SSD and immersive graphics.",
+    "image": "https://m.media-amazon.com/images/I/51kL014TgZL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": "$129",
+    "description": "Portable speaker with high-quality sound and 12-hour battery life.",
+    "image": "https://m.media-amazon.com/images/I/51-XhNyeR6L._SY300_SX300_QL70_FMwebp_.jpg"
+  },
+  {
+    "name": "Camera",
+    "price": "$849",
+    "description": "DSLR camera with 24MP sensor and 4K video recording.",
+    "image": "https://m.media-amazon.com/images/I/41moA8KT4pL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "name": "Keyboard",
+    "price": "$59",
+    "description": "Mechanical keyboard with RGB lighting and ergonomic design.",
+    "image": "https://m.media-amazon.com/images/I/41TvWT4R9IL._SY300_SX300_QL70_FMwebp_.jpg"
+  },
+  {
+    "name": "Shoes",
+    "price": "$89",
+    "description": "Stylish and comfortable sneakers for everyday use.",
+    "image": "https://m.media-amazon.com/images/I/61diFTVDi1L._SY695_.jpg"
+  },
+  {
+    "name": "Backpack",
+    "price": "$75",
+    "description": "Durable backpack with multiple compartments and water resistance.",
+    "image": "https://m.media-amazon.com/images/I/41VK3UJVNPL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "name": "Sunglasses",
+    "price": "$49",
+    "description": "UV-protected stylish sunglasses for men and women.",
+    "image": "https://m.media-amazon.com/images/I/51Z+82yuJgL._SY695_.jpg"
+  },
+  {
+    "name": "Coffee Maker",
+    "price": "$139",
+    "description": "Automatic coffee machine with one-touch brewing function.",
+    "image": "https://m.media-amazon.com/images/I/31Nq5mN+-WL._SY300_SX300_.jpg"
+  }
+]
